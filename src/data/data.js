@@ -7,25 +7,25 @@ export const featuresData = [
   {
     id: 1,
     title: "Devops",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "DevOps is a set of practices, principles, and cultural philosophies that aims to improve collaboration, communication, and integration between software development (Dev) and IT operations (Ops) teams",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "App development is a vast field, encompassing various platforms, technologies, and methodologies",
   },
   {
     id: 3,
     icon: <SiProgress />,
     title: "Mern Developer",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "The MERN stack is a popular technology stack used for building full-stack web applications. MERN stands for MongoDB, Express.js, React, and Node.js",
   },
   {
     id: 4,
     icon: <FaMobile />,
     title: "React-Native",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "React Native is a popular open-source framework for building mobile applications using JavaScript and React",
   },
   {
     id: 5,
