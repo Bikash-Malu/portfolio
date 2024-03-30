@@ -6,6 +6,7 @@ import { SiProgress, SiAntdesign } from "react-icons/si";
 export const featuresData = [
   {
     id: 1,
+    icon:<AiFillAppstore/>,
     title: "Devops",
     des: "DevOps is a set of practices, principles, and cultural philosophies that aims to improve collaboration, communication, and integration between software development (Dev) and IT operations (Ops) teams",
   },

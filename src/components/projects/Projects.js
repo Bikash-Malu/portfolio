@@ -28,7 +28,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Student Subject Regd."
-          des=" a student subject registration webpage using Spring Boot for the backend and React for the frontend involves multiple steps"
+          des="a student subject registration webpage using Spring Boot for the backend and React for the frontend involves multiple steps"
           src={projectThree}
         />
        
