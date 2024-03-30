@@ -18,20 +18,17 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Footwear Page"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="  Footwear Hub is an e-commerce platform dedicated to providing users with a wide range of footwear options. It is only owner side webpage where he create the bill and make the orders. Tech Stack:-React jS, Node JS ,Express JS, Ant UI, MongoDB ."
           src={projectOne}
         />
         <ProjectsCard
           title="A2Z E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" Multi-Venvor is a comprehensive multi-vendor e-commerce platform that connects buyers and sellers, facilitating seamless transactions for a wide range of products. Built with Spring Boot as the backend framework and React as the frontend library. Tech Stack:-ReactJS, Spring Boot, Mysql."
           src={projectTwo}
         />
         <ProjectsCard
           title="Student Subject Regd."
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" a student subject registration webpage using Spring Boot for the backend and React for the frontend involves multiple steps"
           src={projectThree}
         />
        

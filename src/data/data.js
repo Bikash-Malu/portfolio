@@ -31,12 +31,12 @@ export const featuresData = [
     id: 5,
     icon: <SiAntdesign />,
     title: "UX Design",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "UI (User Interface) and UX (User Experience) design are crucial components of modern digital product development",
   },
   {
     id: 6,
     icon: <FaGlobe />,
     title: "Hosting Websites",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Hosting a website involves making it accessible on the internet.",
   },
 ];
